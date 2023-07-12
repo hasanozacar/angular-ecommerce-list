@@ -40,10 +40,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or improvem
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-
-- [List any acknowledgements or credits for libraries, frameworks, or resources used in the project.]
-
-## Contact
-
-If you have any questions, comments, or feedback, please contact [Your Name] at [your-email@example.com].
